@@ -78,3 +78,18 @@ REPORT
 
 Output:
 `3,3,NORTH`
+
+
+## Project Setup
+
+Install dependencies
+`npm install`
+
+Run the development server
+`npm run dev`
+
+
+## Running Tests
+This project uses Vitest to test the command engine independently from the UI.
+Run the full suite:
+`npm test`
